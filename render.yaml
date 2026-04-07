@@ -3,8 +3,8 @@ services:
     name: fantasy-tennis
     runtime: node
     plan: free
-    buildCommand: npm run install:all && npm run build
-    startCommand: npm start
+    buildCommand: cd backend && npm install && cd ../frontend && npm install --include=dev && npm run build
+    startCommand: cd backend && node server.js
     envVars:
       - key: NODE_ENV
         value: production
