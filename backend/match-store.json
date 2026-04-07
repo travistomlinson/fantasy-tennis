@@ -1,0 +1,3538 @@
+{
+  "2026-04-07": {
+    "matches": [
+      {
+        "matchId": "scrape_1775520407480_0",
+        "homePlayer": "Rublev A.",
+        "awayPlayer": "Borges N.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/borges-nuno-hzbEPIOa/rublev-andrey-AeAn4gP0/?mid=40SZ3cyA",
+        "winner": "home",
+        "winnerName": "Rublev A.",
+        "loserName": "Borges N.",
+        "isStraightSets": false,
+        "homeAces": 4,
+        "awayAces": 5,
+        "homeDFs": 3,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_1",
+        "homePlayer": "Rinderknech A.",
+        "awayPlayer": "Khachanov K.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/khachanov-karen-4bNPtZT5/rinderknech-arthur-pIxZZsof/?mid=l8OMEEkS",
+        "winner": "home",
+        "winnerName": "Rinderknech A.",
+        "loserName": "Khachanov K.",
+        "isStraightSets": true,
+        "homeAces": 5,
+        "awayAces": 1,
+        "homeDFs": 0,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_2",
+        "homePlayer": "Bergs Z.",
+        "awayPlayer": "Mannarino A.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/bergs-zizou-SbeTx1o8/mannarino-adrian-fLOdtByM/?mid=CQVs2y6M",
+        "winner": "home",
+        "winnerName": "Bergs Z.",
+        "loserName": "Mannarino A.",
+        "isStraightSets": true,
+        "homeAces": 8,
+        "awayAces": 0,
+        "homeDFs": 5,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_3",
+        "homePlayer": "Baez S.",
+        "awayPlayer": "Wawrinka S.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 7,
+            "away": 5
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/baez-sebastian-dd8jLjtO/wawrinka-stan-Uo9lu6le/?mid=tOUKfgbd",
+        "winner": "home",
+        "winnerName": "Baez S.",
+        "loserName": "Wawrinka S.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 4,
+        "homeDFs": 1,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_4",
+        "homePlayer": "Lehecka J.",
+        "awayPlayer": "Nava E.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 61,
+            "away": 1
+          },
+          {
+            "home": 68,
+            "away": 8
+          },
+          {
+            "home": 710,
+            "away": 10
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/lehecka-jiri-6PlgfXKR/nava-emilio-AJGo8fir/?mid=YiWD8P3F",
+        "winner": "home",
+        "winnerName": "Lehecka J.",
+        "loserName": "Nava E.",
+        "isStraightSets": false,
+        "homeAces": 8,
+        "awayAces": 6,
+        "homeDFs": 3,
+        "awayDFs": 5,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_5",
+        "homePlayer": "Garin C.",
+        "awayPlayer": "Arnaldi M.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/arnaldi-matteo-hlVLAfZK/garin-cristian-U73k5I15/?mid=Q7jE4eop",
+        "winner": "home",
+        "winnerName": "Garin C.",
+        "loserName": "Arnaldi M.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 2,
+        "homeDFs": 3,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_6",
+        "homePlayer": "Cerundolo F.",
+        "awayPlayer": "Tsitsipas S.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/cerundolo-francisco-lWQ3G6gB/tsitsipas-stefanos-hb6oWfc6/?mid=Q78fTD4L",
+        "winner": "home",
+        "winnerName": "Cerundolo F.",
+        "loserName": "Tsitsipas S.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 3,
+        "homeDFs": 4,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_7",
+        "homePlayer": "Altmaier D.",
+        "awayPlayer": "Machac T.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 1
+          },
+          {
+            "home": 3,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/altmaier-daniel-IPR8h9gM/machac-tomas-S44E7UYr/?mid=MwfQNiSr",
+        "winner": "away",
+        "winnerName": "Machac T.",
+        "loserName": "Altmaier D.",
+        "isStraightSets": false,
+        "homeAces": 4,
+        "awayAces": 4,
+        "homeDFs": 1,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_8",
+        "homePlayer": "Fonseca J.",
+        "awayPlayer": "Diallo G.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/diallo-gabriel-2TgBLj6G/fonseca-joao-tv073LUc/?mid=INEh9hDk",
+        "winner": "home",
+        "winnerName": "Fonseca J.",
+        "loserName": "Diallo G.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 1,
+        "homeDFs": 0,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_9",
+        "homePlayer": "Shapovalov D.",
+        "awayPlayer": "Blockx A.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 3,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/blockx-alexander-xll0TzGG/shapovalov-denis-zXddgn9o/?mid=xlLi1sdk",
+        "winner": "away",
+        "winnerName": "Blockx A.",
+        "loserName": "Shapovalov D.",
+        "isStraightSets": false,
+        "homeAces": 2,
+        "awayAces": 2,
+        "homeDFs": 5,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_10",
+        "homePlayer": "Vacherot V.",
+        "awayPlayer": "Cerundolo J. M.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 5,
+            "away": 7
+          },
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/cerundolo-juan-manuel-A93TM7BR/vacherot-valentin-rFqoSYd8/?mid=AFYbaLQ1",
+        "winner": "home",
+        "winnerName": "Vacherot V.",
+        "loserName": "Cerundolo J. M.",
+        "isStraightSets": false,
+        "homeAces": 7,
+        "awayAces": 2,
+        "homeDFs": 3,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_11",
+        "homePlayer": "Cobolli F.",
+        "awayPlayer": "Comesana F.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 2,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/cobolli-flavio-zDtaCcPe/comesana-francisco-SxKK0RUD/?mid=QRS5AoZ2",
+        "winner": "home",
+        "winnerName": "Cobolli F.",
+        "loserName": "Comesana F.",
+        "isStraightSets": false,
+        "homeAces": 2,
+        "awayAces": 3,
+        "homeDFs": 2,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_12",
+        "homePlayer": "Parks A.",
+        "awayPlayer": "Galfi D.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 3,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/galfi-dalma-dGbzUtWd/parks-alycia-Uwhd6a1e/?mid=Y7IBXSrL",
+        "winner": "away",
+        "winnerName": "Galfi D.",
+        "loserName": "Parks A.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 4,
+        "homeDFs": 3,
+        "awayDFs": 6,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_13",
+        "homePlayer": "Boulter K.",
+        "awayPlayer": "Ruse G.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 63,
+            "away": 3
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 62,
+            "away": 2
+          },
+          {
+            "home": 77,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/boulter-katie-0SeXj3jT/ruse-elena-gabriela-ra7IoKGO/?mid=hUpKRxe2",
+        "winner": "away",
+        "winnerName": "Ruse G.",
+        "loserName": "Boulter K.",
+        "isStraightSets": true,
+        "homeAces": 5,
+        "awayAces": 6,
+        "homeDFs": 6,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_14",
+        "homePlayer": "Stephens S.",
+        "awayPlayer": "Maria T.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 65,
+            "away": 5
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/maria-tatjana-OGYNaUZG/stephens-sloane-21U8Dqna/?mid=dIHrnScE",
+        "winner": "home",
+        "winnerName": "Stephens S.",
+        "loserName": "Maria T.",
+        "isStraightSets": false,
+        "homeAces": 1,
+        "awayAces": 8,
+        "homeDFs": 3,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_15",
+        "homePlayer": "Korpatsch T.",
+        "awayPlayer": "Timofeeva M.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/korpatsch-tamara-KhTa5tH1/timofeeva-maria-Em3nvKqP/?mid=6ienjmD7",
+        "winner": "home",
+        "winnerName": "Korpatsch T.",
+        "loserName": "Timofeeva M.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 1,
+        "homeDFs": 1,
+        "awayDFs": 0,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_16",
+        "homePlayer": "Volynets K.",
+        "awayPlayer": "Salkova D.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/salkova-dominika-UD6yIDJ1/volynets-katie-vw1oqIPi/?mid=riuK4nS0",
+        "winner": "home",
+        "winnerName": "Volynets K.",
+        "loserName": "Salkova D.",
+        "isStraightSets": false,
+        "homeAces": 0,
+        "awayAces": 0,
+        "homeDFs": 2,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_17",
+        "homePlayer": "Sasnovich A.",
+        "awayPlayer": "Kalinina A.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kalinina-anhelina-zNoTPac0/sasnovich-aliaksandra-S6JNQ85M/?mid=fParAHNM",
+        "winner": "home",
+        "winnerName": "Sasnovich A.",
+        "loserName": "Kalinina A.",
+        "isStraightSets": true,
+        "homeAces": 5,
+        "awayAces": 3,
+        "homeDFs": 4,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_18",
+        "homePlayer": "Shymanovich I.",
+        "awayPlayer": "Vekic D.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 64,
+            "away": 4
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/shymanovich-iryna-l21IOgts/vekic-donna-AsWv5414/?mid=IqUhrgGM",
+        "winner": "away",
+        "winnerName": "Vekic D.",
+        "loserName": "Shymanovich I.",
+        "isStraightSets": false,
+        "homeAces": 3,
+        "awayAces": 2,
+        "homeDFs": 1,
+        "awayDFs": 5,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_19",
+        "homePlayer": "De Minaur A.",
+        "awayPlayer": "Berrettini M.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 5,
+            "away": 10
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/SrXOkBAM/",
+        "winner": "away",
+        "winnerName": "Berrettini M.",
+        "loserName": "De Minaur A.",
+        "isStraightSets": false,
+        "homeAces": 0,
+        "awayAces": 3,
+        "homeDFs": 0,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_20",
+        "homePlayer": "Arneodo R.",
+        "awayPlayer": "Gonzalez M.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 78,
+            "away": 8
+          },
+          {
+            "home": 66,
+            "away": 6
+          },
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 10,
+            "away": 5
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/tQ9yHm9L/",
+        "winner": "home",
+        "winnerName": "Arneodo R.",
+        "loserName": "Gonzalez M.",
+        "isStraightSets": false,
+        "homeAces": 1,
+        "awayAces": 4,
+        "homeDFs": 4,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_21",
+        "homePlayer": "Cabral F.",
+        "awayPlayer": "Nys H.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 62,
+            "away": 2
+          },
+          {
+            "home": 77,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/tSYGiXuA/",
+        "winner": "away",
+        "winnerName": "Nys H.",
+        "loserName": "Cabral F.",
+        "isStraightSets": true,
+        "homeAces": 6,
+        "awayAces": 2,
+        "homeDFs": 5,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_22",
+        "homePlayer": "Maleckova J.",
+        "awayPlayer": "Panova A.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 2,
+            "away": 6
+          },
+          {
+            "home": 10,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/Of8cygCl/",
+        "winner": "home",
+        "winnerName": "Maleckova J.",
+        "loserName": "Panova A.",
+        "isStraightSets": false,
+        "homeAces": 3,
+        "awayAces": 1,
+        "homeDFs": 4,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_23",
+        "homePlayer": "Eikeri U.",
+        "awayPlayer": "Potapova A.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 65,
+            "away": 5
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 12,
+            "away": 10
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/EsQHOFSr/",
+        "winner": "home",
+        "winnerName": "Eikeri U.",
+        "loserName": "Potapova A.",
+        "isStraightSets": false,
+        "homeAces": 4,
+        "awayAces": 4,
+        "homeDFs": 4,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_24",
+        "homePlayer": "Boscardin Dias P.",
+        "awayPlayer": "Rodriguez L. J.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/boscardin-dias-pedro-4vuKo3sT/rodriguez-lorenzo-joaquin-xdHROE39/?mid=fXT8Cp8M",
+        "winner": "home",
+        "winnerName": "Boscardin Dias P.",
+        "loserName": "Rodriguez L. J.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 4,
+        "homeDFs": 1,
+        "awayDFs": 5,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_25",
+        "homePlayer": "Torres J. B.",
+        "awayPlayer": "Ambrogi L. E.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/ambrogi-luciano-emanuel-zuhsTKYK/torres-juan-bautista-p2teWfrT/?mid=EgShGS8c",
+        "winner": "away",
+        "winnerName": "Ambrogi L. E.",
+        "loserName": "Torres J. B.",
+        "isStraightSets": false,
+        "homeAces": 0,
+        "awayAces": 3,
+        "homeDFs": 4,
+        "awayDFs": 6,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_26",
+        "homePlayer": "Braga V.",
+        "awayPlayer": "Varillas J. P.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 1,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/braga-victor-80xX7VJ9/varillas-juan-pablo-SdnbvebA/?mid=jqTL1Tg4",
+        "winner": "away",
+        "winnerName": "Varillas J. P.",
+        "loserName": "Braga V.",
+        "isStraightSets": true,
+        "homeAces": 1,
+        "awayAces": 1,
+        "homeDFs": 6,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_27",
+        "homePlayer": "Sakamoto P.",
+        "awayPlayer": "Schiessl J. E.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/sakamoto-pedro-E9z4tGK2/schiessl-joao-eduardo-QoCtZ0D9/?mid=b9WTa7OG",
+        "winner": "home",
+        "winnerName": "Sakamoto P.",
+        "loserName": "Schiessl J. E.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 3,
+        "homeDFs": 2,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_28",
+        "homePlayer": "La Serna J. M.",
+        "awayPlayer": "Camargo Lima E.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/camargo-lima-enzo-KEY5tnLd/la-serna-juan-manuel-OUerK0bc/?mid=CYsSunXp",
+        "winner": "home",
+        "winnerName": "La Serna J. M.",
+        "loserName": "Camargo Lima E.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 0,
+        "homeDFs": 2,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_29",
+        "homePlayer": "Perez Contri S.",
+        "awayPlayer": "Gea A.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/gea-arthur-M5Nr6FTR/perez-contri-sergi-nTs4uii1/?mid=foZZjr55",
+        "winner": "home",
+        "winnerName": "Perez Contri S.",
+        "loserName": "Gea A.",
+        "isStraightSets": false,
+        "homeAces": 0,
+        "awayAces": 2,
+        "homeDFs": 4,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_30",
+        "homePlayer": "Llamas Ruiz P.",
+        "awayPlayer": "Ferreira Silva F.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 7,
+            "away": 5
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/llamas-ruiz-pablo-QTqDJ1gP/silva-frederico-ferreira-hC8yrUdb/?mid=MXzSh4zg",
+        "winner": "home",
+        "winnerName": "Llamas Ruiz P.",
+        "loserName": "Ferreira Silva F.",
+        "isStraightSets": false,
+        "homeAces": 6,
+        "awayAces": 5,
+        "homeDFs": 4,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_31",
+        "homePlayer": "Ivanov I.",
+        "awayPlayer": "Sanchez Izquierdo N.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 5,
+            "away": 7
+          },
+          {
+            "home": 2,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/ivanov-ivan-2008-bF6qCIGF/sanchez-izquierdo-nikolas-6gnbtDJM/?mid=2BxrkMZH",
+        "winner": "away",
+        "winnerName": "Sanchez Izquierdo N.",
+        "loserName": "Ivanov I.",
+        "isStraightSets": true,
+        "homeAces": 1,
+        "awayAces": 4,
+        "homeDFs": 0,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_32",
+        "homePlayer": "Clarke J.",
+        "awayPlayer": "Soto M.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 6,
+            "away": 1
+          },
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 5,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/clarke-jay-pWyUazPi/soto-matias-ChWlBYr1/?mid=8IKO02R0",
+        "winner": "away",
+        "winnerName": "Soto M.",
+        "loserName": "Clarke J.",
+        "isStraightSets": false,
+        "homeAces": 10,
+        "awayAces": 5,
+        "homeDFs": 7,
+        "awayDFs": 6,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_33",
+        "homePlayer": "Denolly C.",
+        "awayPlayer": "Huesler M.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/denolly-corentin-hbtADxXG/huesler-marc-andrea-4YcyuHl1/?mid=pI4dF1tf",
+        "winner": "home",
+        "winnerName": "Denolly C.",
+        "loserName": "Huesler M.",
+        "isStraightSets": false,
+        "homeAces": 5,
+        "awayAces": 8,
+        "homeDFs": 9,
+        "awayDFs": 5,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_34",
+        "homePlayer": "Perot R.",
+        "awayPlayer": "Kozlov S.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 1,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kozlov-stefan-hI2zuuMo/perot-raphael-hAyWDlGJ/?mid=tMFIMqlK",
+        "winner": "away",
+        "winnerName": "Kozlov S.",
+        "loserName": "Perot R.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 5,
+        "homeDFs": 5,
+        "awayDFs": 7,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520525421_35",
+        "homePlayer": "Polmans M.",
+        "awayPlayer": "Alujas R.",
+        "homeSets": 1,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 1
+          },
+          {
+            "home": 2,
+            "away": 0
+          },
+          {
+            "home": 30,
+            "away": 30
+          }
+        ],
+        "isComplete": false,
+        "isLive": true,
+        "isRetirement": false,
+        "stageText": "set 2",
+        "detailUrl": "https://www.flashscore.com/match/tennis/alujas-rodrigo-4AA88IJ5/polmans-marc-2TDsBEcH/?mid=WhgbZMXP",
+        "winner": "home",
+        "winnerName": "Polmans M.",
+        "loserName": "Alujas R.",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775521062392_36",
+        "homePlayer": "Martin A.",
+        "awayPlayer": "Napolitano S.",
+        "homeSets": 0,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 4,
+            "away": 5
+          },
+          {
+            "home": 15,
+            "away": 15
+          }
+        ],
+        "isComplete": false,
+        "isLive": true,
+        "isRetirement": false,
+        "stageText": "set 1",
+        "detailUrl": "https://www.flashscore.com/match/tennis/martin-andres-h2AG5rdm/napolitano-stefano-pKG0p9mP/?mid=Qe6CBJuJ",
+        "winner": "home",
+        "winnerName": "Martin A.",
+        "loserName": "Napolitano S.",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_35",
+        "homePlayer": "Lajovic D.",
+        "awayPlayer": "Bellucci M.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 65,
+            "away": 5
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/bellucci-mattia-M9pojLqi/lajovic-dusan-bJf33z45/?mid=nL5xRuTh",
+        "winner": "away",
+        "winnerName": "Bellucci M.",
+        "loserName": "Lajovic D.",
+        "isStraightSets": true,
+        "homeAces": 6,
+        "awayAces": 6,
+        "homeDFs": 2,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_36",
+        "homePlayer": "Sakamoto R.",
+        "awayPlayer": "Carballes Baena R.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/carballes-baena-roberto-hj8fIZPg/sakamoto-rei-AeBHWNls/?mid=ve2US1bt",
+        "winner": "home",
+        "winnerName": "Sakamoto R.",
+        "loserName": "Carballes Baena R.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 3,
+        "homeDFs": 0,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_37",
+        "homePlayer": "Gaubas V.",
+        "awayPlayer": "Travaglia S.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 61,
+            "away": 1
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 5,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/gaubas-vilius-j3oO3m94/travaglia-stefano-KAYoXgme/?mid=GIOCAKrC",
+        "winner": "away",
+        "winnerName": "Travaglia S.",
+        "loserName": "Gaubas V.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 7,
+        "homeDFs": 2,
+        "awayDFs": 0,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_38",
+        "homePlayer": "Echargui M.",
+        "awayPlayer": "Bertola R.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/bertola-remy-OWVm6y0g/echargui-moez-65tqemRH/?mid=KEHRJOLP",
+        "winner": "away",
+        "winnerName": "Bertola R.",
+        "loserName": "Echargui M.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 5,
+        "homeDFs": 1,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_39",
+        "homePlayer": "Dostanic S.",
+        "awayPlayer": "Purtseladze S.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/dostanic-stefan-jiqOrpb5/purtseladze-saba-OI2qf1Ze/?mid=0EhMr9lI",
+        "winner": "home",
+        "winnerName": "Dostanic S.",
+        "loserName": "Purtseladze S.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 3,
+        "homeDFs": 2,
+        "awayDFs": 8,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_40",
+        "homePlayer": "Glinka D.",
+        "awayPlayer": "Wolf J.J.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 64,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/glinka-daniil-bimjKJAE/wolf-jeffrey-john-f5Zc3wW6/?mid=EcfEpVJ5",
+        "winner": "home",
+        "winnerName": "Glinka D.",
+        "loserName": "Wolf J.J.",
+        "isStraightSets": true,
+        "homeAces": 6,
+        "awayAces": 5,
+        "homeDFs": 2,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_41",
+        "homePlayer": "Zink T.",
+        "awayPlayer": "Smith C.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 1
+          },
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/colton-smith-IHCZRRUJ/zink-tyler-prfZnfX1/?mid=tpd6nikg",
+        "winner": "home",
+        "winnerName": "Zink T.",
+        "loserName": "Smith C.",
+        "isStraightSets": false,
+        "homeAces": 1,
+        "awayAces": 5,
+        "homeDFs": 0,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_42",
+        "homePlayer": "Krueger M.",
+        "awayPlayer": "Barton H.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/barton-hynek-UoDybC2H/krueger-mitchell-j9Kf20T0/?mid=OOigc83B",
+        "winner": "away",
+        "winnerName": "Barton H.",
+        "loserName": "Krueger M.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 5,
+        "homeDFs": 4,
+        "awayDFs": 6,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_43",
+        "homePlayer": "Rybakov A.",
+        "awayPlayer": "Damm M.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 63,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/damm-martin-2003-vX7WOXtP/rybakov-alex-x01GZe48/?mid=OjWw1j4n",
+        "winner": "home",
+        "winnerName": "Rybakov A.",
+        "loserName": "Damm M.",
+        "isStraightSets": false,
+        "homeAces": 12,
+        "awayAces": 14,
+        "homeDFs": 5,
+        "awayDFs": 7,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_44",
+        "homePlayer": "Kotov P.",
+        "awayPlayer": "Smith K.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kotov-pavel-809HrNqi/smith-keegan-z14Q4mTq/?mid=W0gHgIMH",
+        "winner": "home",
+        "winnerName": "Kotov P.",
+        "loserName": "Smith K.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 4,
+        "homeDFs": 2,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_45",
+        "homePlayer": "De La Fuente S.",
+        "awayPlayer": "Torrealba B.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 2,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/de-la-fuente-santiago-xMEO3dkb/torrealba-benjamin-QBD7G3Uj/?mid=OOop2m7e",
+        "winner": "home",
+        "winnerName": "De La Fuente S.",
+        "loserName": "Torrealba B.",
+        "isStraightSets": false,
+        "homeAces": 0,
+        "awayAces": 2,
+        "homeDFs": 4,
+        "awayDFs": 7,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_46",
+        "homePlayer": "Fernandez B.",
+        "awayPlayer": "Villalon N.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 0
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/fernandez-bruno-YmTgy47q/villalon-nicolas-t26GhUcJ/?mid=rNeEk5bT",
+        "winner": "home",
+        "winnerName": "Fernandez B.",
+        "loserName": "Villalon N.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 1,
+        "homeDFs": 4,
+        "awayDFs": 0,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_47",
+        "homePlayer": "Zanellato N.",
+        "awayPlayer": "Ribero F.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/ribero-franco-v7WgNVZb/zanellato-nicolas-GAcZvpUn/?mid=8KZ2RXAm",
+        "winner": "away",
+        "winnerName": "Ribero F.",
+        "loserName": "Zanellato N.",
+        "isStraightSets": false,
+        "homeAces": 0,
+        "awayAces": 1,
+        "homeDFs": 5,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_48",
+        "homePlayer": "Rodrigues N.",
+        "awayPlayer": "Pereira J.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 0,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/pereira-jose-SdpLSvYD/rodrigues-natan-4E3Oq5sU/?mid=hQfbyqEa",
+        "winner": "away",
+        "winnerName": "Pereira J.",
+        "loserName": "Rodrigues N.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 2,
+        "homeDFs": 2,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_49",
+        "homePlayer": "Tosetto R.",
+        "awayPlayer": "Huertas Del Pino C.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 3,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/huertas-del-pino-conner-dvetkyid/tosetto-rafael-n1NMWrnO/?mid=INhGDFet",
+        "winner": "away",
+        "winnerName": "Huertas Del Pino C.",
+        "loserName": "Tosetto R.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 4,
+        "homeDFs": 8,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_50",
+        "homePlayer": "Nunez D. A.",
+        "awayPlayer": "Remondy Pagotto V. H.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 60,
+            "away": 0
+          },
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 5,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/nunez-daniel-antonio-OnMCX7Fh/remondy-pagotto-victor-hugo-GjgsP8uU/?mid=xW9E1fpe",
+        "winner": "away",
+        "winnerName": "Remondy Pagotto V. H.",
+        "loserName": "Nunez D. A.",
+        "isStraightSets": false,
+        "homeAces": 3,
+        "awayAces": 8,
+        "homeDFs": 4,
+        "awayDFs": 8,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_51",
+        "homePlayer": "Agamenone F.",
+        "awayPlayer": "Palosi S.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 63,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/agamenone-franco-E9dx5gGD/palosi-stefan-G6OSMRoI/?mid=UozMTg1T",
+        "winner": "home",
+        "winnerName": "Agamenone F.",
+        "loserName": "Palosi S.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 1,
+        "homeDFs": 3,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_52",
+        "homePlayer": "Dedura D.",
+        "awayPlayer": "Montes-De La Torre I.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/dedura-palomero-diego-IXM4oGM3/montes-de-la-torre-inaki-4CYXUVX7/?mid=8vAUxOK0",
+        "winner": "home",
+        "winnerName": "Dedura D.",
+        "loserName": "Montes-De La Torre I.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 3,
+        "homeDFs": 1,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_53",
+        "homePlayer": "Shelbayh A.",
+        "awayPlayer": "Roca Batalla O.",
+        "homeSets": 1,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 0,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": true,
+        "stageText": "finished(retired)",
+        "detailUrl": "https://www.flashscore.com/match/tennis/roca-batalla-oriol-Auos4BEK/shelbayh-abedallah-AZ4zdtZb/?mid=KhOhw7YP",
+        "winner": "home",
+        "winnerName": "Shelbayh A.",
+        "loserName": "Roca Batalla O.",
+        "isStraightSets": false,
+        "homeAces": 7,
+        "awayAces": 5,
+        "homeDFs": 1,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_54",
+        "homePlayer": "Stricker D.",
+        "awayPlayer": "Manzano Lapuerta P.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/manzano-lapuerta-pablo-fmq8r3Wn/stricker-dominic-zViwxgir/?mid=nP1Cmlh2",
+        "winner": "home",
+        "winnerName": "Stricker D.",
+        "loserName": "Manzano Lapuerta P.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 3,
+        "homeDFs": 0,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_55",
+        "homePlayer": "Butvilas E.",
+        "awayPlayer": "Sanchez Jover C.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 63,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/butvilas-edas-dzjDrygR/sanchez-jover-carlos-fLXWkLuE/?mid=Eikxf5XO",
+        "winner": "home",
+        "winnerName": "Butvilas E.",
+        "loserName": "Sanchez Jover C.",
+        "isStraightSets": false,
+        "homeAces": 11,
+        "awayAces": 1,
+        "homeDFs": 1,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_56",
+        "homePlayer": "Nedic A.",
+        "awayPlayer": "Hemery C.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 2,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/hemery-calvin-fse58iGB/nedic-andrej-xSEy3vPr/?mid=vRnw6QrA",
+        "winner": "home",
+        "winnerName": "Nedic A.",
+        "loserName": "Hemery C.",
+        "isStraightSets": false,
+        "homeAces": 5,
+        "awayAces": 9,
+        "homeDFs": 1,
+        "awayDFs": 7,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_57",
+        "homePlayer": "Ayeni A.",
+        "awayPlayer": "Colson T.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 60,
+            "away": 0
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 3,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/ayeni-alafia-d4vwHiRI/colson-tibo-x4TcE4Pj/?mid=I9yuNXyh",
+        "winner": "away",
+        "winnerName": "Colson T.",
+        "loserName": "Ayeni A.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 7,
+        "homeDFs": 7,
+        "awayDFs": 5,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_58",
+        "homePlayer": "Marrero Curbelo I.",
+        "awayPlayer": "Orlov V.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 64,
+            "away": 4
+          },
+          {
+            "home": 77,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/marrero-curbelo-ivan-S6TrqFMo/orlov-vladyslav-2qC5vf76/?mid=IL1un9o1",
+        "winner": "away",
+        "winnerName": "Orlov V.",
+        "loserName": "Marrero Curbelo I.",
+        "isStraightSets": false,
+        "homeAces": 0,
+        "awayAces": 3,
+        "homeDFs": 6,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_59",
+        "homePlayer": "Zahraj P.",
+        "awayPlayer": "Artnak B.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 5,
+            "away": 7
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/artnak-bor-2XEwnKpM/zahraj-patrick-lbaTxENF/?mid=6BaWWNN6",
+        "winner": "away",
+        "winnerName": "Artnak B.",
+        "loserName": "Zahraj P.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 3,
+        "homeDFs": 11,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_60",
+        "homePlayer": "Wiskandt M.",
+        "awayPlayer": "Hayen A.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 5,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/hayen-alejandro-vDETFM7I/wiskandt-max-lzBiylEd/?mid=GjWU8oB4",
+        "winner": "away",
+        "winnerName": "Hayen A.",
+        "loserName": "Wiskandt M.",
+        "isStraightSets": false,
+        "homeAces": 7,
+        "awayAces": 3,
+        "homeDFs": 6,
+        "awayDFs": 5,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_61",
+        "homePlayer": "Catry R.",
+        "awayPlayer": "Poling K.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 65,
+            "away": 5
+          },
+          {
+            "home": 1,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/catry-robin-8Ase3tht/poling-karl-drTxoGEh/?mid=f1Xp53AT",
+        "winner": "away",
+        "winnerName": "Poling K.",
+        "loserName": "Catry R.",
+        "isStraightSets": false,
+        "homeAces": 8,
+        "awayAces": 0,
+        "homeDFs": 10,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_62",
+        "homePlayer": "Fenty A.",
+        "awayPlayer": "Tobon M.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 2,
+            "away": 6
+          },
+          {
+            "home": 1,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/fenty-andrew-bDUgFpAp/tobon-miguel-jr-xpSwNcad/?mid=rq9V9Xf5",
+        "winner": "away",
+        "winnerName": "Tobon M.",
+        "loserName": "Fenty A.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 7,
+        "homeDFs": 4,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_63",
+        "homePlayer": "Bondioli F.",
+        "awayPlayer": "Guerrieri A.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/bondioli-federico-8nVLxFhJ/guerrieri-andrea-KEeikKZL/?mid=nNbWgVDr",
+        "winner": "away",
+        "winnerName": "Guerrieri A.",
+        "loserName": "Bondioli F.",
+        "isStraightSets": false,
+        "homeAces": 7,
+        "awayAces": 0,
+        "homeDFs": 9,
+        "awayDFs": 6,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_64",
+        "homePlayer": "Gombos N.",
+        "awayPlayer": "Caniato C. A.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 63,
+            "away": 3
+          },
+          {
+            "home": 710,
+            "away": 10
+          },
+          {
+            "home": 68,
+            "away": 8
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/caniato-carlo-alberto-l81bYq88/gombos-norbert-bDFSqjSo/?mid=8zM0jyjg",
+        "winner": "home",
+        "winnerName": "Gombos N.",
+        "loserName": "Caniato C. A.",
+        "isStraightSets": true,
+        "homeAces": 11,
+        "awayAces": 8,
+        "homeDFs": 4,
+        "awayDFs": 0,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_65",
+        "homePlayer": "Kopp S.",
+        "awayPlayer": "Romano F.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kopp-sandro-juk28X9Q/romano-filippo-CAxK6Xbs/?mid=QHLiOXOj",
+        "winner": "home",
+        "winnerName": "Kopp S.",
+        "loserName": "Romano F.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 5,
+        "homeDFs": 1,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_66",
+        "homePlayer": "Nagal S.",
+        "awayPlayer": "Kasnikowski M.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 0,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kasnikowski-maks-IozAI7OM/nagal-sumit-46aHbwDc/?mid=jmuPdM5d",
+        "winner": "away",
+        "winnerName": "Kasnikowski M.",
+        "loserName": "Nagal S.",
+        "isStraightSets": false,
+        "homeAces": 3,
+        "awayAces": 3,
+        "homeDFs": 5,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_67",
+        "homePlayer": "Squire H.",
+        "awayPlayer": "Vasami J.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 0,
+            "away": 6
+          },
+          {
+            "home": 3,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/squire-henri-rHjMHCoj/vasami-jacopo-MaKQfer1/?mid=2uKAYRuS",
+        "winner": "away",
+        "winnerName": "Vasami J.",
+        "loserName": "Squire H.",
+        "isStraightSets": true,
+        "homeAces": 1,
+        "awayAces": 3,
+        "homeDFs": 6,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_68",
+        "homePlayer": "Arnaboldi F.",
+        "awayPlayer": "Andaloro F.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 7,
+            "away": 5
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/andaloro-fabrizio-GjnmeDpe/arnaboldi-federico-pjpMXa88/?mid=QqAQvlpB",
+        "winner": "home",
+        "winnerName": "Arnaboldi F.",
+        "loserName": "Andaloro F.",
+        "isStraightSets": true,
+        "homeAces": 7,
+        "awayAces": 3,
+        "homeDFs": 5,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_69",
+        "homePlayer": "Johns G.",
+        "awayPlayer": "Colby R.",
+        "homeSets": 0,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 5,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": true,
+        "stageText": "finished(retired)",
+        "detailUrl": "https://www.flashscore.com/match/tennis/colby-ryan-fZRFe4NH/johns-garrett-r9hKDU3U/?mid=GpwBPBu0",
+        "winner": "home",
+        "winnerName": "Johns G.",
+        "loserName": "Colby R.",
+        "isStraightSets": false,
+        "homeAces": 2,
+        "awayAces": 0,
+        "homeDFs": 0,
+        "awayDFs": 0,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_70",
+        "homePlayer": "Kuzuhara B.",
+        "awayPlayer": "Sheehy J.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kuzuhara-bruno-URBLJ17n/sheehy-joshua-G8JTfX8C/?mid=QZvmLB64",
+        "winner": "home",
+        "winnerName": "Kuzuhara B.",
+        "loserName": "Sheehy J.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 5,
+        "homeDFs": 1,
+        "awayDFs": 6,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_71",
+        "homePlayer": "Bennani R.",
+        "awayPlayer": "Karki R.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/bennani-reda-CYvP71IU/karki-ronit-jwH1d8J5/?mid=Srk9j01D",
+        "winner": "home",
+        "winnerName": "Bennani R.",
+        "loserName": "Karki R.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 1,
+        "homeDFs": 1,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_72",
+        "homePlayer": "Langmo C.",
+        "awayPlayer": "Kirchheimer S.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 63,
+            "away": 3
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 65,
+            "away": 5
+          },
+          {
+            "home": 77,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kirchheimer-strong-AebXIVfC/langmo-christian-GfOtYH8n/?mid=fLoD080f",
+        "winner": "away",
+        "winnerName": "Kirchheimer S.",
+        "loserName": "Langmo C.",
+        "isStraightSets": false,
+        "homeAces": 9,
+        "awayAces": 6,
+        "homeDFs": 4,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_73",
+        "homePlayer": "Draxl L.",
+        "awayPlayer": "Bigun K.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 7,
+            "away": 5
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/bigun-kaylan-hrwb4sUS/draxl-liam-IiUa42eG/?mid=vFEr42Oq",
+        "winner": "home",
+        "winnerName": "Draxl L.",
+        "loserName": "Bigun K.",
+        "isStraightSets": true,
+        "homeAces": 5,
+        "awayAces": 5,
+        "homeDFs": 4,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_74",
+        "homePlayer": "Feldbausch K.",
+        "awayPlayer": "Harper C.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 1
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/feldbausch-kilian-MgiX0Yi5/harper-cleeve-vVE5LjdE/?mid=vB0usN34",
+        "winner": "home",
+        "winnerName": "Feldbausch K.",
+        "loserName": "Harper C.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 0,
+        "homeDFs": 2,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_75",
+        "homePlayer": "Brancaccio N.",
+        "awayPlayer": "Ponchet J.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 65,
+            "away": 5
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 1,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/brancaccio-nuria-jqcBin0G/ponchet-jessika-hbXrCD0b/?mid=WhTLwb6m",
+        "winner": "away",
+        "winnerName": "Ponchet J.",
+        "loserName": "Brancaccio N.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 3,
+        "homeDFs": 4,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_76",
+        "homePlayer": "Kudermetova P.",
+        "awayPlayer": "Sherif M.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 1
+          },
+          {
+            "home": 7,
+            "away": 5
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/kudermetova-polina-8O9jYpK8/sherif-mayar-0QlxEb7i/?mid=8xotRKMs",
+        "winner": "home",
+        "winnerName": "Kudermetova P.",
+        "loserName": "Sherif M.",
+        "isStraightSets": true,
+        "homeAces": 1,
+        "awayAces": 0,
+        "homeDFs": 5,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_77",
+        "homePlayer": "Jones F.",
+        "awayPlayer": "Mandlik E.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 62,
+            "away": 2
+          },
+          {
+            "home": 77,
+            "away": 7
+          },
+          {
+            "home": 64,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/jones-francesca-OU6w8nNa/mandlik-elizabeth-pYMHXRN6/?mid=CWUyzG5C",
+        "winner": "home",
+        "winnerName": "Jones F.",
+        "loserName": "Mandlik E.",
+        "isStraightSets": false,
+        "homeAces": 4,
+        "awayAces": 2,
+        "homeDFs": 4,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_78",
+        "homePlayer": "Mintegi Del Olmo A.",
+        "awayPlayer": "Burillo Escorihuela I.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 6,
+            "away": 0
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/burillo-escorihuela-irene-YZQnwtm9/mintegi-del-olmo-ane-zm1m9Ic9/?mid=z98ghcLt",
+        "winner": "home",
+        "winnerName": "Mintegi Del Olmo A.",
+        "loserName": "Burillo Escorihuela I.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 0,
+        "homeDFs": 3,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_79",
+        "homePlayer": "Yuan Y.",
+        "awayPlayer": "Gallardo Guevara C.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 5,
+            "away": 7
+          },
+          {
+            "home": 6,
+            "away": 4
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/gallardo-guevara-carmen-CYD59LtF/yuan-yue-1998-2yj9GWan/?mid=46RTyxy0",
+        "winner": "home",
+        "winnerName": "Yuan Y.",
+        "loserName": "Gallardo Guevara C.",
+        "isStraightSets": false,
+        "homeAces": 3,
+        "awayAces": 2,
+        "homeDFs": 0,
+        "awayDFs": 8,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_80",
+        "homePlayer": "Hercog P.",
+        "awayPlayer": "Martinez Cirez C.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/hercog-polona-UkeC7r9J/martinez-cirez-carlota-SO0EHoOE/?mid=Kzcvh9re",
+        "winner": "home",
+        "winnerName": "Hercog P.",
+        "loserName": "Martinez Cirez C.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 0,
+        "homeDFs": 0,
+        "awayDFs": 7,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_81",
+        "homePlayer": "Janicijevic S.",
+        "awayPlayer": "Avanesyan E.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 0,
+            "away": 6
+          },
+          {
+            "home": 2,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/avanesyan-elina-bigXsmFf/janicijevic-selena-IaIL1xKN/?mid=2izbZcXi",
+        "winner": "away",
+        "winnerName": "Avanesyan E.",
+        "loserName": "Janicijevic S.",
+        "isStraightSets": true,
+        "homeAces": 2,
+        "awayAces": 0,
+        "homeDFs": 1,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_82",
+        "homePlayer": "Saito S.",
+        "awayPlayer": "Diaz Adrover C.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 1
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/diaz-adrover-cristina-UgTF99H7/saito-sara-63CooUWo/?mid=z5Y5Xy24",
+        "winner": "home",
+        "winnerName": "Saito S.",
+        "loserName": "Diaz Adrover C.",
+        "isStraightSets": true,
+        "homeAces": 1,
+        "awayAces": 1,
+        "homeDFs": 2,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_83",
+        "homePlayer": "Werner C.",
+        "awayPlayer": "Tona M.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/tona-miriana-2wB7CMs9/werner-caroline-6VtVgRxH/?mid=dxph0Ry8",
+        "winner": "home",
+        "winnerName": "Werner C.",
+        "loserName": "Tona M.",
+        "isStraightSets": true,
+        "homeAces": 4,
+        "awayAces": 1,
+        "homeDFs": 0,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_84",
+        "homePlayer": "Huertas Del Pino C.",
+        "awayPlayer": "Demoliner M.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/8jvpNYGc/",
+        "winner": "home",
+        "winnerName": "Huertas Del Pino C.",
+        "loserName": "Demoliner M.",
+        "isStraightSets": true,
+        "homeAces": 1,
+        "awayAces": 3,
+        "homeDFs": 1,
+        "awayDFs": 3,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_85",
+        "homePlayer": "Martinez L. D.",
+        "awayPlayer": "Gomez F. A.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 4,
+            "away": 10
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/vRIODKU8/",
+        "winner": "away",
+        "winnerName": "Gomez F. A.",
+        "loserName": "Martinez L. D.",
+        "isStraightSets": false,
+        "homeAces": 2,
+        "awayAces": 1,
+        "homeDFs": 2,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_86",
+        "homePlayer": "Martins I.",
+        "awayPlayer": "Selekhmeteva O.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 0,
+            "away": 6
+          },
+          {
+            "home": 4,
+            "away": 10
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/KGjvmN0b/",
+        "winner": "away",
+        "winnerName": "Selekhmeteva O.",
+        "loserName": "Martins I.",
+        "isStraightSets": false,
+        "homeAces": 1,
+        "awayAces": 1,
+        "homeDFs": 8,
+        "awayDFs": 4,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_87",
+        "homePlayer": "Montgomery R.",
+        "awayPlayer": "Brooks M.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 3,
+            "away": 6
+          },
+          {
+            "home": 64,
+            "away": 4
+          },
+          {
+            "home": 77,
+            "away": 7
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/WxqQwJNp/",
+        "winner": "away",
+        "winnerName": "Brooks M.",
+        "loserName": "Montgomery R.",
+        "isStraightSets": true,
+        "homeAces": 3,
+        "awayAces": 3,
+        "homeDFs": 5,
+        "awayDFs": 2,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_88",
+        "homePlayer": "Brancaccio N.",
+        "awayPlayer": "Cavalle-Reimers Y.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 4,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/lATchkUG/",
+        "winner": "away",
+        "winnerName": "Cavalle-Reimers Y.",
+        "loserName": "Brancaccio N.",
+        "isStraightSets": true,
+        "homeAces": 0,
+        "awayAces": 2,
+        "homeDFs": 3,
+        "awayDFs": 1,
+        "dataSource": "scraped",
+        "limitedData": false,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_89",
+        "homePlayer": "Houkes M.",
+        "awayPlayer": "Ionel N. D.",
+        "homeSets": 2,
+        "awaySets": 0,
+        "sets": [
+          {
+            "home": 6,
+            "away": 3
+          },
+          {
+            "home": 6,
+            "away": 2
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/houkes-max-00P4vHo8/ionel-nicholas-david-rZoAMC0F/?mid=pAzWCYef",
+        "winner": "home",
+        "winnerName": "Houkes M.",
+        "loserName": "Ionel N. D.",
+        "isStraightSets": true,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_90",
+        "homePlayer": "Amarandei D. A.",
+        "awayPlayer": "Bax F.",
+        "homeSets": 0,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 4,
+            "away": 6
+          },
+          {
+            "home": 2,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/amarandei-daniel-aleksandar-OhdSjAx1/bax-florent-bLE16tQq/?mid=hzvvBCQ6",
+        "winner": "away",
+        "winnerName": "Bax F.",
+        "loserName": "Amarandei D. A.",
+        "isStraightSets": true,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_91",
+        "homePlayer": "Handel T.",
+        "awayPlayer": "Gentzsch T.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 2
+          },
+          {
+            "home": 6,
+            "away": 3
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/gentzsch-tom-IgniZQN6/handel-tim-bVBqu7hI/?mid=prdo9jeJ",
+        "winner": "home",
+        "winnerName": "Handel T.",
+        "loserName": "Gentzsch T.",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_92",
+        "homePlayer": "Fonio G.",
+        "awayPlayer": "Sels J.",
+        "homeSets": 1,
+        "awaySets": 2,
+        "sets": [
+          {
+            "home": 2,
+            "away": 6
+          },
+          {
+            "home": 7,
+            "away": 5
+          },
+          {
+            "home": 3,
+            "away": 6
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/fonio-giovanni-GnIfbWHR/sels-jelle-b98aFqya/?mid=tEohKG3K",
+        "winner": "away",
+        "winnerName": "Sels J.",
+        "loserName": "Fonio G.",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_93",
+        "homePlayer": "Petkovic M.",
+        "awayPlayer": "Ferrari G.",
+        "homeSets": 2,
+        "awaySets": 1,
+        "sets": [
+          {
+            "home": 6,
+            "away": 4
+          },
+          {
+            "home": 1,
+            "away": 6
+          },
+          {
+            "home": 6,
+            "away": 1
+          }
+        ],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/ferrari-gianmarco-IoLNpAMF/petkovic-mika-jFlzjsv5/?mid=CdxOEfRs",
+        "winner": "home",
+        "winnerName": "Petkovic M.",
+        "loserName": "Ferrari G.",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_94",
+        "homePlayer": "Austria W",
+        "awayPlayer": "Finland W",
+        "homeSets": 0,
+        "awaySets": 3,
+        "sets": [],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/austria-pQGiE7cg/finland-SvgRwXyG/?mid=2yUo7gTO",
+        "winner": "away",
+        "winnerName": "Finland W",
+        "loserName": "Austria W",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_95",
+        "homePlayer": "Bulgaria W",
+        "awayPlayer": "South Africa W",
+        "homeSets": 3,
+        "awaySets": 0,
+        "sets": [],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/bulgaria-I1wsT6Cn/south-africa-bwQfdD06/?mid=0rfvo9BT",
+        "winner": "home",
+        "winnerName": "Bulgaria W",
+        "loserName": "South Africa W",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_96",
+        "homePlayer": "Greece W",
+        "awayPlayer": "Cyprus W",
+        "homeSets": 3,
+        "awaySets": 0,
+        "sets": [],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/cyprus-pG3MvDM9/greece-vNKsxB6S/?mid=UNVw9FbC",
+        "winner": "home",
+        "winnerName": "Greece W",
+        "loserName": "Cyprus W",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      },
+      {
+        "matchId": "scrape_1775520407481_97",
+        "homePlayer": "North Macedonia W",
+        "awayPlayer": "Egypt W",
+        "homeSets": 0,
+        "awaySets": 3,
+        "sets": [],
+        "isComplete": true,
+        "isLive": false,
+        "isRetirement": false,
+        "stageText": "finished",
+        "detailUrl": "https://www.flashscore.com/match/tennis/egypt-jHUcIfNP/north-macedonia-AmGwwiiM/?mid=hIjWnVtH",
+        "winner": "away",
+        "winnerName": "Egypt W",
+        "loserName": "North Macedonia W",
+        "isStraightSets": false,
+        "homeAces": null,
+        "awayAces": null,
+        "homeDFs": null,
+        "awayDFs": null,
+        "dataSource": "scraped",
+        "limitedData": true,
+        "timestamp": "2026-04-07T00:52:58.753Z"
+      }
+    ],
+    "fetchedAt": 1775523337419,
+    "complete": false,
+    "matchCount": 100,
+    "withStats": 89
+  }
+}

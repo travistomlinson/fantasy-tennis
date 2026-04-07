@@ -1,0 +1,481 @@
+{
+  "currentWeek": 1,
+  "managers": [
+    {
+      "id": "user",
+      "name": "My Team",
+      "coins": 45,
+      "totalPoints": 0,
+      "weeklyPoints": 0,
+      "roster": [
+        {
+          "player": {
+            "id": "atp_j__lehecka",
+            "name": "J. Lehecka",
+            "country": "",
+            "rank": 13,
+            "tour": "ATP",
+            "atpPoints": 2490,
+            "basePrice": 27,
+            "currentPrice": 27,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_f__cerundolo",
+            "name": "F. Cerundolo",
+            "country": "",
+            "rank": 19,
+            "tour": "ATP",
+            "atpPoints": 2020,
+            "basePrice": 25,
+            "currentPrice": 25,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_r__hijikata",
+            "name": "R. Hijikata",
+            "country": "",
+            "rank": 100,
+            "tour": "ATP",
+            "atpPoints": 632,
+            "basePrice": 3,
+            "currentPrice": 3,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        }
+      ],
+      "isBot": false
+    },
+    {
+      "id": "bot_1",
+      "name": "Ace Ventura FC",
+      "coins": 0,
+      "totalPoints": 42,
+      "weeklyPoints": 11,
+      "roster": [
+        {
+          "player": {
+            "id": "atp_s__korda",
+            "name": "S. Korda",
+            "country": "",
+            "rank": 41,
+            "tour": "ATP",
+            "atpPoints": 1100,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_m__kecmanovic",
+            "name": "M. Kecmanovic",
+            "country": "",
+            "rank": 59,
+            "tour": "ATP",
+            "atpPoints": 875,
+            "basePrice": 14,
+            "currentPrice": 14,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "wta_katerina_siniakova",
+            "name": "Katerina Siniakova",
+            "country": "",
+            "rank": 43,
+            "tour": "WTA",
+            "atpPoints": 1299,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_a__mannarino",
+            "name": "A. Mannarino",
+            "country": "",
+            "rank": 46,
+            "tour": "ATP",
+            "atpPoints": 1050,
+            "basePrice": 18,
+            "currentPrice": 18,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_j__duckworth",
+            "name": "J. Duckworth",
+            "country": "",
+            "rank": 86,
+            "tour": "ATP",
+            "atpPoints": 672,
+            "basePrice": 7,
+            "currentPrice": 7,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "wta_elisabetta_cocciaretto",
+            "name": "Elisabetta Cocciaretto",
+            "country": "",
+            "rank": 42,
+            "tour": "WTA",
+            "atpPoints": 1310,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_alexander_blockx",
+            "name": "Alexander Blockx",
+            "country": "",
+            "rank": 91,
+            "tour": "ATP",
+            "atpPoints": 20,
+            "basePrice": 6,
+            "currentPrice": 6,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_francisco_comesana",
+            "name": "Francisco Comesana",
+            "country": "",
+            "rank": 99,
+            "tour": "ATP",
+            "atpPoints": 25,
+            "basePrice": 4,
+            "currentPrice": 4,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        }
+      ],
+      "isBot": true
+    },
+    {
+      "id": "bot_2",
+      "name": "Net Gains",
+      "coins": 0,
+      "totalPoints": 46,
+      "weeklyPoints": 5,
+      "roster": [
+        {
+          "player": {
+            "id": "wta_dayana_yastremska",
+            "name": "Dayana Yastremska",
+            "country": "",
+            "rank": 49,
+            "tour": "WTA",
+            "atpPoints": 1172,
+            "basePrice": 17,
+            "currentPrice": 17,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_giovanni_mpetshi_perricard",
+            "name": "Giovanni Mpetshi Perricard",
+            "country": "",
+            "rank": 56,
+            "tour": "ATP",
+            "atpPoints": 22,
+            "basePrice": 15,
+            "currentPrice": 15,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_hamad_medjedovic",
+            "name": "Hamad Medjedovic",
+            "country": "",
+            "rank": 83,
+            "tour": "ATP",
+            "atpPoints": 22,
+            "basePrice": 8,
+            "currentPrice": 8,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_zachary_svajda",
+            "name": "Zachary Svajda",
+            "country": "",
+            "rank": 84,
+            "tour": "ATP",
+            "atpPoints": 23,
+            "basePrice": 8,
+            "currentPrice": 8,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_mariano_navone",
+            "name": "Mariano Navone",
+            "country": "",
+            "rank": 42,
+            "tour": "ATP",
+            "atpPoints": 25,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_quentin_halys",
+            "name": "Quentin Halys",
+            "country": "",
+            "rank": 89,
+            "tour": "ATP",
+            "atpPoints": 29,
+            "basePrice": 6,
+            "currentPrice": 6,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_fabian_marozsan",
+            "name": "Fabian Marozsan",
+            "country": "",
+            "rank": 43,
+            "tour": "ATP",
+            "atpPoints": 26,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_joao_fonseca",
+            "name": "Joao Fonseca",
+            "country": "",
+            "rank": 40,
+            "tour": "ATP",
+            "atpPoints": 19,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        }
+      ],
+      "isBot": true
+    },
+    {
+      "id": "bot_3",
+      "name": "Deuce Bigalow",
+      "coins": 0,
+      "totalPoints": 21,
+      "weeklyPoints": 10,
+      "roster": [
+        {
+          "player": {
+            "id": "atp_matteo_berrettini",
+            "name": "Matteo Berrettini",
+            "country": "",
+            "rank": 90,
+            "tour": "ATP",
+            "atpPoints": 29,
+            "basePrice": 6,
+            "currentPrice": 6,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_rinky_hijikata",
+            "name": "Rinky Hijikata",
+            "country": "",
+            "rank": 100,
+            "tour": "ATP",
+            "atpPoints": 25,
+            "basePrice": 3,
+            "currentPrice": 3,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "wta_alexandra_eala",
+            "name": "Alexandra Eala",
+            "country": "",
+            "rank": 46,
+            "tour": "WTA",
+            "atpPoints": 1255,
+            "basePrice": 18,
+            "currentPrice": 18,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "wta_katerina_siniakova",
+            "name": "Katerina Siniakova",
+            "country": "",
+            "rank": 43,
+            "tour": "WTA",
+            "atpPoints": 1299,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "wta_elisabetta_cocciaretto",
+            "name": "Elisabetta Cocciaretto",
+            "country": "",
+            "rank": 42,
+            "tour": "WTA",
+            "atpPoints": 1310,
+            "basePrice": 19,
+            "currentPrice": 19,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "wta_qinwen_zheng",
+            "name": "Qinwen Zheng",
+            "country": "",
+            "rank": 37,
+            "tour": "WTA",
+            "atpPoints": 1350,
+            "basePrice": 20,
+            "currentPrice": 20,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": false,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_jenson_brooksby",
+            "name": "Jenson Brooksby",
+            "country": "",
+            "rank": 64,
+            "tour": "ATP",
+            "atpPoints": 25,
+            "basePrice": 13,
+            "currentPrice": 13,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        },
+        {
+          "player": {
+            "id": "atp_lorenzo_sonego",
+            "name": "Lorenzo Sonego",
+            "country": "",
+            "rank": 66,
+            "tour": "ATP",
+            "atpPoints": 30,
+            "basePrice": 12,
+            "currentPrice": 12,
+            "fantasyPoints": 0,
+            "recentMatches": []
+          },
+          "benched": true,
+          "acquiredWeek": 1
+        }
+      ],
+      "isBot": true
+    }
+  ],
+  "manualMatches": [],
+  "weeklyResults": {},
+  "weeklySnapshots": {},
+  "lastUpdated": "2026-04-07T05:50:06.846Z"
+}
