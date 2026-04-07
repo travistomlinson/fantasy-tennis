@@ -67,13 +67,30 @@ function buildPlayers(rankings, playerMap, tour, limit = 200) {
   return players;
 }
 
+// Deduplicate players by last name + tour, keeping the first (preferred) entry
+function deduplicatePlayers(players) {
+  const seen = new Map();
+  const result = [];
+  for (const p of players) {
+    // Extract last name as dedup key: "C. Alcaraz" → "alcaraz", "Carlos Alcaraz" → "alcaraz"
+    const parts = p.name.trim().split(/\s+/);
+    const lastName = parts[parts.length - 1].toLowerCase();
+    const key = `${p.tour}_${lastName}`;
+    if (!seen.has(key)) {
+      seen.set(key, true);
+      result.push(p);
+    }
+  }
+  return result;
+}
+
 export async function seedPlayers(force = false) {
   const now = Date.now();
   const ONE_DAY = 24 * 60 * 60 * 1000;
 
   if (!force && cache.lastFetch && (now - cache.lastFetch) < ONE_DAY && cache.players.length > 0) {
     console.log('[Layer1] Using cached player data');
-    return cache.players;
+    return deduplicatePlayers(cache.players);
   }
 
   // Primary: scrape live 2026 rankings from ATP/WTA sites
@@ -81,7 +98,7 @@ export async function seedPlayers(force = false) {
   try {
     const { atp, wta } = await scrapeCurrentRankings(force);
     if (atp.length > 0) {
-      const allPlayers = [...atp, ...wta];
+      const allPlayers = deduplicatePlayers([...atp, ...wta]);
       cache = { players: allPlayers, lastFetch: now };
       console.log(`[Layer1] Live rankings: ${atp.length} ATP + ${wta.length} WTA players`);
       return allPlayers;
@@ -93,7 +110,7 @@ export async function seedPlayers(force = false) {
   // Check if ranking scraper has cached data from a previous run
   const cached = getCachedRankings();
   if (cached.atp.length > 0) {
-    const allPlayers = [...cached.atp, ...cached.wta];
+    const allPlayers = deduplicatePlayers([...cached.atp, ...cached.wta]);
     cache = { players: allPlayers, lastFetch: now };
     console.log(`[Layer1] Using cached scraped rankings: ${cached.atp.length} ATP + ${cached.wta.length} WTA`);
     return allPlayers;
@@ -124,7 +141,7 @@ export async function seedPlayers(force = false) {
       console.warn('[Layer1] WTA CSV fetch failed:', err.message);
     }
 
-    const allPlayers = [...atpPlayers, ...wtaPlayers];
+    const allPlayers = deduplicatePlayers([...atpPlayers, ...wtaPlayers]);
     cache = { players: allPlayers, lastFetch: now };
     console.log(`[Layer1] CSV fallback: ${atpPlayers.length} ATP + ${wtaPlayers.length} WTA (2024 data)`);
     return allPlayers;
